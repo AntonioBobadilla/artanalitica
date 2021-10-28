@@ -1,0 +1,2 @@
+abrir consola
+ejecutar: python main.py
